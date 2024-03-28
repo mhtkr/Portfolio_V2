@@ -12,6 +12,7 @@ h1, h2, h3, h4, h5, h6 {
 .container {
   width: 90%;
   margin: auto;
+  text-align: center;
 }
 
 header {
@@ -110,6 +111,12 @@ footer p {
 
 #navbar ul li a:hover {
   color: #86c7b8; /* Pastel blue-green */
+}
+
+#about div img
+{
+  width: 80%;
+  border-radius: 20px;
 }
 
 /* Gallery styles */
